@@ -1,0 +1,1 @@
+<?php exec("server_txt.bat > server_txt_log.txt"); ?>
